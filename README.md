@@ -12,4 +12,3 @@ git checkout -b dev: Creates new branch
 git push --set-upstream origin dev: Sets where the pushes are going to go
 git push -u origin dev: Pushes to dev branch
 
-Change mad on dev branch
